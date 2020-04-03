@@ -1,4 +1,4 @@
-## 사람 나이 >> 댕댕이 나이 공식¶
+## 댕댕이 나이 >> 사람 나이 공식
 
 
 - 출처 : https://www.wikitree.co.kr/articles/482773
